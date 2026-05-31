@@ -14,30 +14,52 @@
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,js,tailwind,vite,vuejs,angular" />
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Backend
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,dotnet,go" />
+### Frontend & Mobile
 
-### Mobile
-<img src="https://skillicons.dev/icons?i=react,flutter" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,js,tailwind,vite,vuejs,angular,flutter" />
 
-### Database
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</td>
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,linux" />
+<td align="center" width="50%">
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,dotnet,go,postgres,mysql,mongodb,sqlite,redis" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,linux,git,github" />
+
+</td>
+
+<td align="center">
 
 ### AI / ML
-<img src="https://skillicons.dev/icons?i=python" />
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-FF9800?style=for-the-badge" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-FF9800?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
